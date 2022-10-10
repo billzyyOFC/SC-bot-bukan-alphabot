@@ -17,8 +17,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'Your Key',
 }
 
-// Other
-global.owner = ['66283807661974,'6283807661974','6285220625571','6285220625571']
+// Lainnya
+global . pemilik  = [ '66283807661974,' 6283807661974 ',' 6283807661974 ',' 6283807661974 ']
 global.premium = ['66283807661974]
 global.packname = 'Dikaaa x billzyy BOTZ'
 global.author = 'WhatsApp Bot'
